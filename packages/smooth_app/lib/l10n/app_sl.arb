@@ -12,9 +12,9 @@
     "@next_label": {
         "description": "A label on a button that says 'Next', pressing the button takes the user to the next screen."
     },
-    "go_back_to_top": "Go back to top",
+    "go_back_to_top": "Nazaj Na Vrh",
     "save": "Shrani",
-    "save_confirmation": "Are you sure you want to save?",
+    "save_confirmation": "Ali ste prepričani, da želite shraniti?",
     "skip": "Skip",
     "cancel": "Prekliči",
     "@cancel": {},
@@ -34,13 +34,13 @@
     "@error": {},
     "error_occurred": "Prišlo je do napake",
     "@error_occurred": {},
-    "featureInProgress": "We're still working on this feature, stay tuned",
+    "featureInProgress": "Fukcija v obdelavi",
     "@featureInProgress": {},
-    "label_web": "View on the web",
+    "label_web": "Ogled na spletu",
     "@label_web": {},
-    "learnMore": "Learn more",
+    "learnMore": "Več o tem",
     "@learnMore": {},
-    "general_confirmation": "Are you sure?",
+    "general_confirmation": "Ali ste prepričani?",
     "unknown": "Neznano",
     "@unknown": {
         "description": "Short label for product list view: the compatibility of that product with your preferences is unknown"
@@ -95,43 +95,43 @@
     },
     "licenses": "Licence",
     "@licenses": {},
-    "looking_for": "Looking for",
+    "looking_for": "Iskanje",
     "@looking_for": {
         "description": "Looking for: ${BARCODE}"
     },
     "@Introduction screen": {},
-    "welcomeToOpenFoodFacts": "Welcome to Open Food Facts",
+    "welcomeToOpenFoodFacts": "Dobrodošli v Open Food Facts",
     "@welcomeToOpenFoodFacts": {},
-    "whatIsOff": "Open Food Facts is a global non-profit powered by local communities.",
+    "whatIsOff": "Open Food Facts je svetovna neprofitna organizacija, ki deluje s pomočjo prostovoljcev.",
     "@whatIsOff": {
         "description": "Description of Open Food Facts organization."
     },
-    "offUtility": "Choose food that is good for you and the planet.",
+    "offUtility": "Izberite hrano, ki je dobra za vas, kot tudi za svet.",
     "@offUtility": {
         "description": "Description of what a user can use Open Food Facts for."
     },
-    "productDataUtility": "See the food data relevant to your preferences.",
+    "productDataUtility": "Oglejte si podatke o živilih, ki ustrezajo vašemu izboru.",
     "@productDataUtility": {
         "description": "Description of what a user can use the product data for."
     },
-    "healthCardUtility": "Choose foods that are good for you.",
+    "healthCardUtility": "Izberite živila, ki so dobra za vas.",
     "@healthCardUtility": {
         "description": "Description of what a user can use the health data in a product for."
     },
-    "ecoCardUtility": "Choose foods that are good for the planet.",
+    "ecoCardUtility": "Izberite živila, ki so dobra za svet.",
     "@ecoCardUtility": {
         "description": "Description of what a user can use the Eco data in a product for."
     },
     "@user_management": {},
-    "sign_in_text": "Sign in to your Open Food Facts account to save your contributions",
-    "incorrect_credentials": "Incorrect username or password.",
+    "sign_in_text": "Ustvarite Open Food Facts račun in si oglejte svoje prispevke",
+    "incorrect_credentials": "Napačno ime ali geslo.",
     "login": "Uporabniško ime",
     "@login": {
         "description": "Text field hint: unified name for either username or e-mail address"
     },
-    "login_page_username_or_email": "Please enter username or e-mail",
-    "login_page_password_error_empty": "Please enter a password",
-    "create_account": "Create account",
+    "login_page_username_or_email": "Prosimo vnesite uporabniško ime ali elektronsko pošto",
+    "login_page_password_error_empty": "Prosimo vnesite geslo",
+    "create_account": "Ustvarite račun",
     "@create_account": {
         "description": "Button label: Opens a page where a new user can register"
     },
@@ -139,20 +139,20 @@
     "@sign_in": {
         "description": "Button label: For sign in"
     },
-    "sign_out": "Sign out",
+    "sign_out": "Odjava",
     "@sign_out": {
         "description": "Button label: For sign out"
     },
-    "sign_out_confirmation": "Are you sure you want to sign out?",
+    "sign_out_confirmation": "Ali ste prepričani, da se želite odjaviti?",
     "@sign_out_confirmation": {
         "description": "Pop up title: Reassuring if the user really want to sign out"
     },
     "password": "Geslo",
-    "forgot_password": "Forgot password",
+    "forgot_password": "Pozabljeno geslo",
     "@forgot_password": {
         "description": "Button label: Opens a page where a password reset e-mail can be requested"
     },
-    "view_profile": "View profile",
+    "view_profile": "Pogled profila",
     "@view_profile": {
         "description": "Button label: For to show your account"
     },
@@ -160,43 +160,43 @@
     "@reset_password": {
         "description": "Forgot password page title"
     },
-    "reset_password_explanation_text": "In case of a forgotten password, enter your username or e-mail address to receive instructions for a password reset. Also, remember to check the Spam folder.",
-    "username_or_email": "Username or e-mail",
+    "reset_password_explanation_text": "V primeru, da ste pozabili geslo vnesite svoje uporabniško ime ali elektronski naslov in sledite nadaljnjim navodilom. Prav tako ne pozabite preverit pid vsiljeno pošto.",
+    "username_or_email": "Uporabnisko ime ali elektronski naslov",
     "@username_or_email": {
         "description": "Text field hint for password reset"
     },
-    "reset_password_done": "An e-mail with a link to reset your password has been sent to the e-mail address associated with your account. Also check your spam",
-    "send_reset_password_mail": "Change password",
+    "reset_password_done": "Poslali smo vam elektronsko sporočilo s povezavo za ponastavitev vašega gesla. Preverite tudi ali ste morda sporočilo prejeli med vsiljeno pošto",
+    "send_reset_password_mail": "Spremeni geslo",
     "@send_reset_password_mail": {
         "description": "Button label: Submit the password reset e-mail request"
     },
-    "enter_some_text": "Please enter some text",
+    "enter_some_text": "Vnesite besedilo",
     "@enter_some_text": {
         "description": "Error when a required text field is empty"
     },
-    "sign_up_page_title": "Sign Up",
+    "sign_up_page_title": "Registracija",
     "@sign_up_page_title": {
         "description": "Header"
     },
-    "sign_up_page_action_button": "Sign Up",
+    "sign_up_page_action_button": "Registracija",
     "@sign_up_page_action_button": {
         "description": "Button for signing up"
     },
-    "sign_up_page_action_doing_it": "Signing up...",
+    "sign_up_page_action_doing_it": "Prijavljanje...",
     "@sign_up_page_action_doing_it": {
         "description": "Progress indicator dialog during the actual signing up process"
     },
-    "sign_up_page_action_ok": "Congratulations! Your account has just been created.",
+    "sign_up_page_action_ok": "Čestitamo! Vaš račun je bil ustvarjen.",
     "sign_up_page_display_name_hint": "Ime",
-    "sign_up_page_display_name_error_empty": "Please enter the display name you want to use",
-    "sign_up_page_email_hint": "E-mail",
-    "sign_up_page_email_error_empty": "E-mail is required",
-    "sign_up_page_email_error_invalid": "Invalid e-mail",
-    "sign_up_page_username_hint": "Username: Publicly visible",
-    "sign_up_page_username_error_empty": "Please enter a username",
-    "sign_up_page_username_error_invalid": "Please enter a valid username",
-    "sign_up_page_username_description": "Username cannot contains spaces, caps or special characters",
-    "sign_up_page_username_length_invalid": "Username cannot exceed {value} characters",
+    "sign_up_page_display_name_error_empty": "Prosimo vnesite ime, ki ga želite prikazati",
+    "sign_up_page_email_hint": "Elektronski naslov",
+    "sign_up_page_email_error_empty": "Elektronski naslov je obvezen",
+    "sign_up_page_email_error_invalid": "Neveljaven elektronski naslov",
+    "sign_up_page_username_hint": "Uporabniško ime: Javno",
+    "sign_up_page_username_error_empty": "Vnesite uporabniško ime",
+    "sign_up_page_username_error_invalid": "Prosimo vnesite veljavno uporabniško ime",
+    "sign_up_page_username_description": "Uporabniško ime ne sme vsebovati presledkov, velikih črk ali posebnih znakov",
+    "sign_up_page_username_length_invalid": "Uporabniško ime ne sme presegati {value} znakov",
     "@sign_up_page_username_length_invalid": {
         "placeholders": {
             "value": {
@@ -205,16 +205,16 @@
         }
     },
     "sign_up_page_password_hint": "Geslo",
-    "sign_up_page_password_error_empty": "Please enter a password",
-    "sign_up_page_password_error_invalid": "Please enter a valid password (at least 6 characters)",
-    "sign_up_page_confirm_password_hint": "Confirm Password",
-    "sign_up_page_confirm_password_error_empty": "Please confirm the password",
-    "sign_up_page_confirm_password_error_invalid": "Passwords don't match",
-    "sign_up_page_agree_text": "I agree to the Open Food Facts",
+    "sign_up_page_password_error_empty": "Prosimo vnesite geslo",
+    "sign_up_page_password_error_invalid": "Prosimo vnesite veljavno geslo (vsaj 6 znakov)",
+    "sign_up_page_confirm_password_hint": "Potrditev gesla",
+    "sign_up_page_confirm_password_error_empty": "Prosimo potrdite geslo",
+    "sign_up_page_confirm_password_error_invalid": "Vneseni gesli se ne ujemata",
+    "sign_up_page_agree_text": "Strinjam se z Open Food Facts",
     "@sign_up_page_agree_text": {
         "description": "I agree to the Open Food Facts is followed by sign_up_page_terms_text"
     },
-    "sign_up_page_terms_text": "terms of use and contribution",
+    "sign_up_page_terms_text": "pogoji uporabe in prispevki",
     "@sign_up_page_terms_text": {
         "description": "terms of use and contribution is preceded by sign_up_page_agree_text"
     },
@@ -226,36 +226,36 @@
     "@donate_url": {
         "description": "Please insert the right url from the website here."
     },
-    "sign_up_page_agree_error_invalid": "When creating an account, agreeing to the Terms of Use is mandatory, however, anonymous contributions can still be made through the app",
+    "sign_up_page_agree_error_invalid": "Ob registraciji je potrditev pogojev obvezna, kljub temu so anonimni prispevki mogoči preko aplikacije",
     "@sign_up_page_agree_error_invalid": {
         "description": "Error message: You have to agree to the terms-of-use (A checkbox to do so is above this error message)"
     },
-    "sign_up_page_producer_checkbox": "I am a food producer",
-    "sign_up_page_producer_hint": "Producer/brand",
-    "sign_up_page_producer_error_empty": "Please enter a producer or a brand name",
-    "sign_up_page_subscribe_checkbox": "I'd like to subscribe to the Open Food Facts newsletter (You can unsubscribe from it at any time)",
+    "sign_up_page_producer_checkbox": "Sem proizvajalec hrane",
+    "sign_up_page_producer_hint": "Proizvajalec/blagovna znamka",
+    "sign_up_page_producer_error_empty": "Prosimo vnesite proizvajalca ali blagovno znamko",
+    "sign_up_page_subscribe_checkbox": "Rad bi se naročio na Open Food Facts novice (Odjavite se lahko kadarkoli)",
     "@Settings": {},
     "settingsTitle": "Nastavitve",
     "@settingsTitle": {
         "description": "The title of the Settings page"
     },
-    "darkmode": "Darkmode",
+    "darkmode": "Temni način",
     "@darkmode": {
         "description": "The name of the darkmode on off switch"
     },
-    "darkmode_dark": "Dark",
+    "darkmode_dark": "Temno",
     "@darkmode_dark": {
         "description": "Indicator inside the darkmode switch (dark)"
     },
-    "darkmode_light": "Light",
+    "darkmode_light": "Svetlo",
     "@darkmode_light": {
         "description": "Indicator inside the darkmode switch (light)"
     },
-    "darkmode_system_default": "System default",
+    "darkmode_system_default": "Sistemsko privzeto",
     "@darkmode_system_default": {
         "description": "Indicator inside the darkmode switch (system default)"
     },
-    "thanks_for_contributing": "Thanks for contributing",
+    "thanks_for_contributing": "Hvala za vaš prispevek",
     "@contributors": {
         "description": "Button label: Opens a pop up window where all contributors of this app are shown"
     },
@@ -264,11 +264,11 @@
     "@support": {
         "description": "Button label: Opens a pop up window where all ways to get support are shown"
     },
-    "support_join_slack": "Ask for help in our Slack channel",
-    "support_via_email": "Send us an e-mail",
+    "support_join_slack": "Vprašajte za pomoč na našem Slack kanalu",
+    "support_via_email": "Pošljite nam elektronsko sporočilo",
     "termsOfUse": "Pogoji uporabe",
     "@termsOfUse": {},
-    "about_this_app": "About this app",
+    "about_this_app": "O tej aplikaciji",
     "@about_this_app": {
         "description": "Button label: Opens a pop up window which shows information about the app"
     },
@@ -277,13 +277,13 @@
     "@contribute": {
         "description": "Button label: Shows multiple ways how users can contribute to OFF"
     },
-    "contribute_sw_development": "Software development",
+    "contribute_sw_development": "Razvoj programske opreme",
     "@contribute_sw_development": {
         "description": "Button label + page title: Ways to help"
     },
-    "contribute_develop_text": "The code for every Open Food Facts product is available on GitHub. You are welcome to reuse the code (it's open source) and help us improve it, for everyone, on all the planet.",
+    "contribute_develop_text": "Koda vsakega Open Food Facts izdelka je na voljo na GitHub. Vabimo vas k uporabi kod, ki so odprtokodne, s čimer lahko prispevate k izboljšavam.",
     "@contribute_develop_text": {},
-    "contribute_develop_text_2": "You can join the Open Food Facts Slack chatroom which is the preferred way to ask questions.",
+    "contribute_develop_text_2": "Najboljši način, da nam postavite vprašanje je, da se nam pridružite v Open Food Facts Slack klepetalnici.",
     "@contribute_develop_text_2": {},
     "contribute_donate_header": "Doniraj k Open Food Facts",
     "@contribute_donate_header": {},
@@ -291,48 +291,48 @@
     "@contribute_improve_ProductsToBeCompleted": {
         "description": "Button label: Shows a list of products which aren't completed"
     },
-    "contribute_improve_header": "Improving",
+    "contribute_improve_header": "Izboljšanje",
     "@contribute_improve_header": {
         "description": "Button label + page title: Ways to improve the database"
     },
-    "contribute_improve_text": "The database is the core of the project. It's easy and very quick to help. You can download the mobile app for your phone, and start adding or improving products.\n\nOn the other hand, Open Food Facts website offers many ways to contribute: ",
+    "contribute_improve_text": "Baza podatkov je osredje projekta. Pomagate nam lahko hitro in enostavno. Naložite si mobilno aplikacijo na telefon in pomagajte nam izboljšati izdelke.\n\nSpletna stran Open Food Facts nudi veliko različnih načinov s katerimi lahko prispevate k izboljšavam: ",
     "@contribute_improve_text": {},
-    "contribute_translate_header": "Translate",
+    "contribute_translate_header": "Prevedi",
     "@contribute_translate_header": {
         "description": "Button label + pop up window title: Shows information about helping by translating"
     },
-    "contribute_translate_link_text": "Start Translating",
+    "contribute_translate_link_text": "Začnite prevajati",
     "@contribute_translate_link_text": {
         "description": "Button label: Opens the Crowdin translation portal"
     },
-    "contribute_translate_text": "Open Food Facts is a global project, containing products from more than 160 countries. Open Food Facts is translated into dozens of languages, with constantly evolving content.",
+    "contribute_translate_text": "Open Food Facts je svetovni projekt, ki vsebuje izdelke iz več kot 160 držav. Open Food Facts je preveden v desetine jezikov, vsebina pa se nenehno razvija.",
     "@contribute_translate_text": {},
-    "contribute_translate_text_2": "Translations is one of the key tasks of the project",
+    "contribute_translate_text_2": "Prevodi so ena ključnih nalog projekta",
     "@contribute_translate_text_2": {},
-    "tap_to_answer": "Tap here to answer questions",
+    "tap_to_answer": "Kliknite tukaj, da odgovorite na vprašanja",
     "@tap_to_answer": {
         "description": "Button label shown on a product, clicking the button opens a card with unanswered product questions, users can answer these to contribute to Open food facts and gain rewards."
     },
-    "saving_answer": "Saving your answer",
+    "saving_answer": "Shranjevanje vašega odgovora",
     "@saving_answer": {
         "description": "Dialog shown to users after they have answered a question, while the answer is being saved in the BE."
     },
-    "contribute_to_get_rewards": "Help improve food transparency and get rewards",
+    "contribute_to_get_rewards": "Pomagajte izboljšati preglednost hrane in boste nagrajeni",
     "@contribute_to_get_rewards": {
         "description": "Button description shown on a product, clicking the button opens a card with unanswered product questions, users can answer these to contribute to Open food facts and gain rewards."
     },
-    "question_sign_in_text": "Sign in to your Open Food Facts account to get credit for your contribution",
+    "question_sign_in_text": "Prijavite se v svoj račun Open Food Facts in pridobili boste dobroimetje za svoj prispevek",
     "@Personal preferences": {},
     "myPreferences": "Moje nastavitve",
     "@myPreferences": {
         "description": "Page title: Page where the ranking preferences can be changed"
     },
-    "myPreferences_profile_title": "Your Profile",
-    "myPreferences_profile_subtitle": "Manage your Open Food Facts contributor account.",
-    "myPreferences_settings_title": "App Settings",
-    "myPreferences_settings_subtitle": "Dark mode, Analytics, ...",
-    "myPreferences_food_title": "Food Preferences",
-    "myPreferences_food_subtitle": "Choose what information about food matters most to you.",
+    "myPreferences_profile_title": "Vaš profil",
+    "myPreferences_profile_subtitle": "Upravljajte svoj račun sodelavca Open Food Facts.",
+    "myPreferences_settings_title": "Nastavitve aplikacije",
+    "myPreferences_settings_subtitle": "Temni način, analitika, ...",
+    "myPreferences_food_title": "Najljubša hrana",
+    "myPreferences_food_subtitle": "Izberite katere informacije o hrani so vam najbolj pomembne.",
     "myPreferences_food_comment": "Choose what information about food matters most to you, in order to rank food according to your preferences, see the information you care about first, and get a compatibility summary. Those food preferences stay on your device, and are not associated with your Open Food Facts contributor account if you have one.",
     "confirmResetPreferences": "Reset your food preferences?",
     "@confirmResetPreferences": {
@@ -1157,7 +1157,7 @@
     "@signup_page_terms_of_use_line1": {
         "description": "User consent for terms of use (line 1)"
     },
-    "signup_page_terms_of_use_line2": "terms of use and contribution",
+    "signup_page_terms_of_use_line2": "pogoji uporabe in prispevki",
     "@signup_page_terms_of_use_line2": {
         "description": "User consent for terms of use (line 2)"
     },
